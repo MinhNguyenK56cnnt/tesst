@@ -1,1 +1,2 @@
-minh nguyễn văn hello world
+﻿minh nguyễn văn hello world
+xin chào các bạn
